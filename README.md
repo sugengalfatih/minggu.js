@@ -1,0 +1,2 @@
+# minggu.js
+minggu
